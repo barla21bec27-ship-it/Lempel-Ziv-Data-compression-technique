@@ -8,7 +8,7 @@ This implementation:
 - Segments the input string based on repeated patterns.
 - Encodes the segments using ASCII and binary representations.
 - Generates a **final compressed code word**.
-- results in `result.txt` file
+- results in `results.txt` file
 
 ---
 
